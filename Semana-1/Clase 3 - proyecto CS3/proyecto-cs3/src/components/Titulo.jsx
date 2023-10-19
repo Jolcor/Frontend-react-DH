@@ -4,7 +4,7 @@ const Titulo = () => {
   return (
     <>
       <h1 className="titulo">Bienvenido a la Clase 3</h1>
-      <SubTitulo info1="Clase de compornente" />
+      <SubTitulo info1="Clase de componentes" />
       <SubTitulo info2="Clase de Props" />
     </>
   );
