@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(106, 106, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+}
+
+.titulo{
+  color: aliceblue;
+}
+.sub{
+  color: rebeccapurple;
+}
+
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: burlywood;
+  font-weight: 600;
+}
